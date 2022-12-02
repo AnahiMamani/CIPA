@@ -1,0 +1,33 @@
+1ºinsere o numero do candidato
+2º exibe: numero, nome, apelido, setor onde trabalha, idade, tempo de serviço e foto.
+3ºbotão confirmar
+4ºvoto é registrado, exibe uma mensagem e ativa um som.
+
+
+Numeros dos candidatos: 5 digitos
+voto branco: apertar a tecla numero"0"
+Voto nulo: é representado pelo numero "00"
+
+
+Modulo de cadastro
+dados: numero
+nome 
+foto(500KB/JPG.)
+
+candidatos: serao 4 candidatos e os votos nulos e brancos tambem serao cadastrados como
+candidato. 6 candidatos no geral.
+
+modulo tela de apuração:
+Visualizam a tela de resultados da apuração de votos, onde consta o numero de candidato,
+nome, quantidade de votos de cada candidato e o percentual de votos DO TOTAL DE VOTOS GERAL.
+Os  dados  do  relatório  devem  estar ordenados por quantidade de votos em ordem decrescente.
+
+
+PROGRAMAÇÃO E ALGORITMO
+
+APRESENTE A RELAÇÃO DOS CANDIDATOS, contendo Numero de inscrição, seu nome, apelido, setor 
+onde trabalha, idade e tempo de serviço.
+
+AO FINAL DA VOTAÇÃO, deve constar o número do candidato, o nome, a quantidade de votos de
+cada um e o percentual de votos em relaçao ao total dos votos. Os dados do relatório devem
+estar ordenados por quantidade de votos em ordem decrescente.
